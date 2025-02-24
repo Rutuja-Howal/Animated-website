@@ -9,52 +9,54 @@ Currently, two official plugins are available:
 
 ⚙️ Tech Stack
 
-GSAP
+✅GSAP
 
-React.js
+✅React.js
 
-Tailwind CSS
+✅Tailwind CSS
 
-Project Setup: Initializing a React.js environment.
+🔋 Features
 
-UI/UX Design: Implementing modern design principles for a smooth user experience.
+✨Project Setup: Initializing a React.js environment.
 
-Animations & Interactivity: Using animations to make the website more engaging.
+✨UI/UX Design: Implementing modern design principles for a smooth user experience.
 
-Responsive Web Development: Ensuring the site adapts to different screen sizes.
+✨Animations & Interactivity: Using animations to make the website more engaging.
 
-Deployment: Publishing the website online for users to access.
+✨Responsive Web Development: Ensuring the site adapts to different screen sizes.
 
-
-Technologies Used
-
-React.js – For building dynamic and interactive UI components.
-
-CSS & Animations – Enhancing the website's aesthetic appeal.
-
-JavaScript Frameworks/Libraries – Possibly including Framer Motion, GSAP, or others.
+✨Deployment: Publishing the website online for users to access.
 
 
-Make sure you have the following installed on your machine:
+⚙️Technologies Used
+
+ 📌React.js – For building dynamic and interactive UI components.
+
+ 📌CSS & Animations – Enhancing the website's aesthetic appeal.
+
+ 📌JavaScript Frameworks/Libraries – Possibly including Framer Motion, GSAP, or others.
 
 
-Git
-
-Node.js
-
-npm (Node Package Manager)
+💻Make sure you have the following installed on your machine:
 
 
-Installation
+📍Git
+
+📍Node.js
+
+📍npm (Node Package Manager)
 
 
-Install the project dependencies using npm:
+🔧Installation
+
+
+🎯Install the project dependencies using npm:
 
 npm install
 
 
 
-Running the Project
+🎯Running the Project
 
 npm run dev
 
