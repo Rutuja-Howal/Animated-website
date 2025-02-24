@@ -10,5 +10,8 @@ Currently, two official plugins are available:
 ⚙️ Tech Stack
 
 GSAP
+
 React.js
+
 Tailwind CSS
+
