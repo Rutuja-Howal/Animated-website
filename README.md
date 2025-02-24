@@ -15,6 +15,8 @@ Currently, two official plugins are available:
 
 ✅Tailwind CSS
 
+
+
 🔋 Features
 
 ✨Project Setup: Initializing a React.js environment.
@@ -28,6 +30,8 @@ Currently, two official plugins are available:
 ✨Deployment: Publishing the website online for users to access.
 
 
+
+
 ⚙️Technologies Used
 
  📌React.js – For building dynamic and interactive UI components.
@@ -37,8 +41,9 @@ Currently, two official plugins are available:
  📌JavaScript Frameworks/Libraries – Possibly including Framer Motion, GSAP, or others.
 
 
-💻Make sure you have the following installed on your machine:
 
+
+💻Make sure you have the following installed on your machine:
 
 📍Git
 
@@ -47,7 +52,8 @@ Currently, two official plugins are available:
 📍npm (Node Package Manager)
 
 
-🔧Installation
+
+🔧Installation:
 
 
 🎯Install the project dependencies using npm:
